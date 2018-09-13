@@ -1,0 +1,16 @@
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/obj/Debug/netcoreapp2.0/AbstractFactory.Tests.csproj.CoreCompileInputs.cache
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/obj/Debug/netcoreapp2.0/AbstractFactory.Tests.AssemblyInfoInputs.cache
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/obj/Debug/netcoreapp2.0/AbstractFactory.Tests.AssemblyInfo.cs
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.Tests.deps.json
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.Tests.runtimeconfig.json
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.Tests.runtimeconfig.dev.json
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.Tests.dll
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.Tests.pdb
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.dll
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/bin/Debug/netcoreapp2.0/AbstractFactory.pdb
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/obj/Debug/netcoreapp2.0/AbstractFactory.Tests.dll
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/obj/Debug/netcoreapp2.0/AbstractFactory.Tests.pdb
+/Users/ggordon/ideas/patterns/AbstractFactory.Tests/obj/Debug/netcoreapp2.0/AbstractFactory.Tests.csprojResolveAssemblyReference.cache
