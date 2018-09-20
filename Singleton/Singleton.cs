@@ -6,12 +6,12 @@ namespace GangOfFour.Creational
     //Singleton Example
     public class Election 
     {
-        private static readonly Election _candidate = new Election();
+        private static readonly Lazy<Election> _candidate = new Lazy<Election>();
         private static Election _lazyInitCandidate;
 
         public static Election Winner()
         {
-            return _candidate;
+            return _candidate.Value;
         } 
 
         public static Election LazyWinner()
