@@ -26,7 +26,8 @@ namespace GangOfFour.Structural
 
     }
 
-    class Socket{
+    class Socket
+    {
         public void ChangesDrive()
         {
             Console.WriteLine("Drive changed to use a 1/4 Drive (female)");

@@ -25,7 +25,7 @@ namespace GangOfFour.Creational
             _mealItems.Add(part);
         }
 
-        public void show() {
+        public void Show() {
             foreach(string mealItem in _mealItems) {
                 Console.WriteLine(mealItem);
             }
@@ -90,11 +90,11 @@ namespace GangOfFour.Creational
 
             cashier.Orders(meal);
             MealItem order1 = meal.ProductGetResult();
-            order1.show();
+            order1.Show();
 
             cashier.Orders(drink);
             MealItem order2 = drink.ProductGetResult();
-            order2.show();
+            order2.Show();
 
             Console.ReadKey();
         }

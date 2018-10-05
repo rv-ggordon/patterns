@@ -14,6 +14,7 @@ namespace GangOfFour.Structural
                 _implementer = value;
             }
         } 
+
         public virtual void ON(){
             _implementer.ON();
         }
